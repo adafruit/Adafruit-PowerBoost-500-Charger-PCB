@@ -9,12 +9,7 @@ Like our popular 5V 1A USB wall adapter, the output has been tweaked to be 5.2V 
 
 The PowerBoost 500C has at the heart a TPS61090 boost converter from TI. This boost converter chip has some really nice extras such as low battery detection, 2A internal switch, synchronous conversion, excellent efficiency, and 700KHz high-frequency operation.
 
-PCB files for the Adafruit PowerBoost 500 Charger
-
-Pick up one today at 
-
-----> https://www.adafruit.com/product/1944
-
+This repo contains the PCB files for the Adafruit PowerBoost 500 Charger
 
 ### License
 
